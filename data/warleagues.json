@@ -1,0 +1,306 @@
+[
+  {
+    "id": 48000000,
+    "name": "Unranked",
+    "promotions": 0,
+    "demotions": 0,
+    "medals": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 48000001,
+    "name": "Bronze League III",
+    "promotions": 3,
+    "demotions": 0,
+    "medals": [
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20
+    ]
+  },
+  {
+    "id": 48000002,
+    "name": "Bronze League II",
+    "promotions": 3,
+    "demotions": 1,
+    "medals": [
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32
+    ]
+  },
+  {
+    "id": 48000003,
+    "name": "Bronze League I",
+    "promotions": 3,
+    "demotions": 1,
+    "medals": [
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44
+    ]
+  },
+  {
+    "id": 48000004,
+    "name": "Silver League III",
+    "promotions": 2,
+    "demotions": 1,
+    "medals": [
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55
+    ]
+  },
+  {
+    "id": 48000005,
+    "name": "Silver League II",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73
+    ]
+  },
+  {
+    "id": 48000006,
+    "name": "Silver League I",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      112,
+      109,
+      106,
+      103,
+      100,
+      97,
+      94,
+      91
+    ]
+  },
+  {
+    "id": 48000007,
+    "name": "Gold League III",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      136,
+      132,
+      128,
+      124,
+      120,
+      116,
+      112,
+      108
+    ]
+  },
+  {
+    "id": 48000008,
+    "name": "Gold League II",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      160,
+      156,
+      152,
+      148,
+      144,
+      140,
+      136,
+      132
+    ]
+  },
+  {
+    "id": 48000009,
+    "name": "Gold League I",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      184,
+      180,
+      176,
+      172,
+      168,
+      164,
+      160,
+      156
+    ]
+  },
+  {
+    "id": 48000010,
+    "name": "Crystal League III",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      214,
+      209,
+      204,
+      199,
+      194,
+      189,
+      184,
+      179
+    ]
+  },
+  {
+    "id": 48000011,
+    "name": "Crystal League II",
+    "promotions": 2,
+    "demotions": 2,
+    "medals": [
+      244,
+      239,
+      234,
+      229,
+      224,
+      219,
+      214,
+      209
+    ]
+  },
+  {
+    "id": 48000012,
+    "name": "Crystal League I",
+    "promotions": 1,
+    "demotions": 2,
+    "medals": [
+      274,
+      269,
+      264,
+      259,
+      254,
+      249,
+      244,
+      239
+    ]
+  },
+  {
+    "id": 48000013,
+    "name": "Master League III",
+    "promotions": 1,
+    "demotions": 2,
+    "medals": [
+      310,
+      304,
+      298,
+      292,
+      286,
+      280,
+      274,
+      268
+    ]
+  },
+  {
+    "id": 48000014,
+    "name": "Master League II",
+    "promotions": 1,
+    "demotions": 2,
+    "medals": [
+      346,
+      340,
+      334,
+      328,
+      322,
+      316,
+      310,
+      304
+    ]
+  },
+  {
+    "id": 48000015,
+    "name": "Master League I",
+    "promotions": 1,
+    "demotions": 2,
+    "medals": [
+      382,
+      376,
+      370,
+      364,
+      358,
+      352,
+      346,
+      340
+    ]
+  },
+  {
+    "id": 48000016,
+    "name": "Champion League III",
+    "promotions": 1,
+    "demotions": 2,
+    "medals": [
+      424,
+      417,
+      410,
+      403,
+      396,
+      389,
+      382,
+      375
+    ]
+  },
+  {
+    "id": 48000017,
+    "name": "Champion League II",
+    "promotions": 1,
+    "demotions": 2,
+    "medals": [
+      466,
+      459,
+      452,
+      445,
+      438,
+      431,
+      424,
+      417
+    ]
+  },
+  {
+    "id": 48000018,
+    "name": "Champion League I",
+    "promotions": 0,
+    "demotions": 3,
+    "medals": [
+      508,
+      501,
+      494,
+      487,
+      480,
+      473,
+      466,
+      459
+    ]
+  }
+]
