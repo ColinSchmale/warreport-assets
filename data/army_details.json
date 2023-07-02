@@ -597,6 +597,7 @@
         },
         {
             "name": "Hog Rider",
+            "superTroop": "Super Hog Rider",
             "maxLevels": [
                 0,
                 0,
