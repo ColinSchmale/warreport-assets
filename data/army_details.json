@@ -19,6 +19,23 @@
                 80,
                 90,
                 95
+            ],
+            "equipment": [
+                {
+                    "name": "Barbarian Puppet"
+                },
+                {
+                    "name": "Earthquake Boots"
+                },
+                {
+                    "name": "Giant Gauntlet"
+                },
+                {
+                    "name": "Rage Vial"
+                },
+                {
+                    "name": "Vampstache"
+                }
             ]
         },
         {
@@ -40,6 +57,20 @@
                 80,
                 90,
                 95
+            ],
+            "equipment": [
+                {
+                    "name": "Archer Puppet"
+                },
+                {
+                    "name": "Giant Arrow"
+                },
+                {
+                    "name": "Invisibility Vial"
+                },
+                {
+                    "name": "Healer Puppet"
+                }
             ]
         },
         {
@@ -61,6 +92,20 @@
                 55,
                 65,
                 70
+            ],
+            "equipment": [
+                {
+                    "name": "Eternal Tome"
+                },
+                {
+                    "name": "Healing Tome"
+                },
+                {
+                    "name": "Life Gem"
+                },
+                {
+                    "name": "Rage Gem"
+                }
             ]
         },
         {
@@ -82,6 +127,14 @@
                 30,
                 40,
                 45
+            ],
+            "equipment": [
+                {
+                    "name": "Royal Gem"
+                },
+                {
+                    "name": "Seeking Shield"
+                }
             ]
         }
     ],
