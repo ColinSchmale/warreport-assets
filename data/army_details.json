@@ -22,19 +22,109 @@
             ],
             "equipment": [
                 {
-                    "name": "Barbarian Puppet"
+                    "name": "Barbarian Puppet",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Earthquake Boots"
+                    "name": "Earthquake Boots",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Giant Gauntlet"
+                    "name": "Giant Gauntlet",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        21,
+                        24,
+                        27
+                    ]
                 },
                 {
-                    "name": "Rage Vial"
+                    "name": "Rage Vial",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Vampstache"
+                    "name": "Vampstache",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 }
             ]
         },
@@ -60,16 +150,88 @@
             ],
             "equipment": [
                 {
-                    "name": "Archer Puppet"
+                    "name": "Archer Puppet",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Giant Arrow"
+                    "name": "Giant Arrow",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Invisibility Vial"
+                    "name": "Invisibility Vial",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Healer Puppet"
+                    "name": "Healer Puppet",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 }
             ]
         },
@@ -95,16 +257,88 @@
             ],
             "equipment": [
                 {
-                    "name": "Eternal Tome"
+                    "name": "Eternal Tome",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Healing Tome"
+                    "name": "Healing Tome",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Life Gem"
+                    "name": "Life Gem",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Rage Gem"
+                    "name": "Rage Gem",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 }
             ]
         },
@@ -130,10 +364,46 @@
             ],
             "equipment": [
                 {
-                    "name": "Royal Gem"
+                    "name": "Royal Gem",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 },
                 {
-                    "name": "Seeking Shield"
+                    "name": "Seeking Shield",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 }
             ]
         }
