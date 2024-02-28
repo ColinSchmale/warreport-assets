@@ -406,6 +406,27 @@
                     ]
                 },
                 {
+                    "name": "Hog Rider Puppet",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
+                },
+                {
                     "name": "Seeking Shield",
                     "maxLevels": [
                         0,
