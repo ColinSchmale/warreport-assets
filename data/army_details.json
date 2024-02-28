@@ -192,6 +192,27 @@
                     ]
                 },
                 {
+                    "name": "Frozen Arrow",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        21,
+                        24,
+                        27
+                    ]
+                },
+                {
                     "name": "Invisibility Vial",
                     "maxLevels": [
                         0,
