@@ -23,6 +23,7 @@
             "equipment": [
                 {
                     "name": "Barbarian Puppet",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -44,6 +45,7 @@
                 },
                 {
                     "name": "Earthquake Boots",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -65,6 +67,7 @@
                 },
                 {
                     "name": "Giant Gauntlet",
+                    "type": "epic",
                     "maxLevels": [
                         0,
                         0,
@@ -86,6 +89,7 @@
                 },
                 {
                     "name": "Rage Vial",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -107,6 +111,7 @@
                 },
                 {
                     "name": "Vampstache",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -151,6 +156,7 @@
             "equipment": [
                 {
                     "name": "Archer Puppet",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -172,6 +178,7 @@
                 },
                 {
                     "name": "Giant Arrow",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -193,6 +200,7 @@
                 },
                 {
                     "name": "Frozen Arrow",
+                    "type": "epic",
                     "maxLevels": [
                         0,
                         0,
@@ -214,6 +222,7 @@
                 },
                 {
                     "name": "Invisibility Vial",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -235,6 +244,7 @@
                 },
                 {
                     "name": "Healer Puppet",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -279,6 +289,7 @@
             "equipment": [
                 {
                     "name": "Eternal Tome",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -300,6 +311,7 @@
                 },
                 {
                     "name": "Healing Tome",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -321,6 +333,7 @@
                 },
                 {
                     "name": "Life Gem",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -342,6 +355,7 @@
                 },
                 {
                     "name": "Rage Gem",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -386,6 +400,7 @@
             "equipment": [
                 {
                     "name": "Royal Gem",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -407,6 +422,7 @@
                 },
                 {
                     "name": "Hog Rider Puppet",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -428,6 +444,7 @@
                 },
                 {
                     "name": "Seeking Shield",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -449,6 +466,7 @@
                 },
                 {
                     "name": "Haste Vial",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
