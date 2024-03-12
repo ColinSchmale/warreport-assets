@@ -288,50 +288,6 @@
             ],
             "equipment": [
                 {
-                    "name": "Eternal Tome",
-                    "type": "common",
-                    "maxLevels": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        12,
-                        15,
-                        15,
-                        18,
-                        18,
-                        18
-                    ]
-                },
-                {
-                    "name": "Healing Tome",
-                    "type": "common",
-                    "maxLevels": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        15,
-                        18,
-                        18,
-                        18
-                    ]
-                },
-                {
                     "name": "Life Gem",
                     "type": "common",
                     "maxLevels": [
@@ -369,6 +325,50 @@
                         0,
                         12,
                         15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
+                },
+                {
+                    "name": "Eternal Tome",
+                    "type": "common",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
+                },
+                {
+                    "name": "Healing Tome",
+                    "type": "common",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
                         15,
                         18,
                         18,
