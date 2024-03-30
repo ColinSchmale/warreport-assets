@@ -14,7 +14,8 @@
       0,
       0
     ],
-    "bonusMedals": 0
+    "bonusMedals": 0,
+    "bonuses": 0
   },
   {
     "id": 48000001,
@@ -31,7 +32,8 @@
       22,
       20
     ],
-    "bonusMedals": 35
+    "bonusMedals": 35,
+    "bonuses": 1
   },
   {
     "id": 48000002,
@@ -48,7 +50,8 @@
       34,
       32
     ],
-    "bonusMedals": 35
+    "bonusMedals": 35,
+    "bonuses": 1
   },
   {
     "id": 48000003,
@@ -65,7 +68,8 @@
       46,
       44
     ],
-    "bonusMedals": 35
+    "bonusMedals": 35,
+    "bonuses": 1
   },
   {
     "id": 48000004,
@@ -82,7 +86,8 @@
       58,
       55
     ],
-    "bonusMedals": 35
+    "bonusMedals": 35,
+    "bonuses": 1
   },
   {
     "id": 48000005,
@@ -99,7 +104,8 @@
       76,
       73
     ],
-    "bonusMedals": 40
+    "bonusMedals": 40,
+    "bonuses": 1
   },
   {
     "id": 48000006,
@@ -116,7 +122,8 @@
       94,
       91
     ],
-    "bonusMedals": 45
+    "bonusMedals": 45,
+    "bonuses": 1
   },
   {
     "id": 48000007,
@@ -133,7 +140,8 @@
       112,
       108
     ],
-    "bonusMedals": 50
+    "bonusMedals": 50,
+    "bonuses": 2
   },
   {
     "id": 48000008,
@@ -150,7 +158,8 @@
       136,
       132
     ],
-    "bonusMedals": 55
+    "bonusMedals": 55,
+    "bonuses": 2
   },
   {
     "id": 48000009,
@@ -167,7 +176,8 @@
       160,
       156
     ],
-    "bonusMedals": 60
+    "bonusMedals": 60,
+    "bonuses": 2
   },
   {
     "id": 48000010,
@@ -184,7 +194,8 @@
       184,
       179
     ],
-    "bonusMedals": 65
+    "bonusMedals": 65,
+    "bonuses": 2
   },
   {
     "id": 48000011,
@@ -201,7 +212,8 @@
       214,
       209
     ],
-    "bonusMedals": 70
+    "bonusMedals": 70,
+    "bonuses": 2
   },
   {
     "id": 48000012,
@@ -218,7 +230,8 @@
       244,
       239
     ],
-    "bonusMedals": 75
+    "bonusMedals": 75,
+    "bonuses": 2
   },
   {
     "id": 48000013,
@@ -235,7 +248,8 @@
       274,
       268
     ],
-    "bonusMedals": 80
+    "bonusMedals": 80,
+    "bonuses": 3
   },
   {
     "id": 48000014,
@@ -252,7 +266,8 @@
       310,
       304
     ],
-    "bonusMedals": 85
+    "bonusMedals": 85,
+    "bonuses": 3
   },
   {
     "id": 48000015,
@@ -269,7 +284,8 @@
       346,
       340
     ],
-    "bonusMedals": 90
+    "bonusMedals": 90,
+    "bonuses": 3
   },
   {
     "id": 48000016,
@@ -286,7 +302,8 @@
       382,
       375
     ],
-    "bonusMedals": 95
+    "bonusMedals": 95,
+    "bonuses": 4
   },
   {
     "id": 48000017,
@@ -303,7 +320,8 @@
       424,
       417
     ],
-    "bonusMedals": 100
+    "bonusMedals": 100,
+    "bonuses": 4
   },
   {
     "id": 48000018,
@@ -320,6 +338,7 @@
       466,
       459
     ],
-    "bonusMedals": 105
+    "bonusMedals": 105,
+    "bonuses": 4
   }
 ]
