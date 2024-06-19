@@ -487,6 +487,28 @@
                     ]
                 },
                 {
+                    "name": "Rocket Spear",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        18,
+                        21,
+                        24,
+                        27
+                    ]
+                },
+                {
                     "name": "Seeking Shield",
                     "type": "common",
                     "maxLevels": [
