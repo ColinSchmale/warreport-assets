@@ -22,8 +22,8 @@
             ],
             "equipment": [
                 {
-                    "name": "Barbarian Puppet",
-                    "type": "common",
+                    "name": "Giant Gauntlet",
+                    "type": "epic",
                     "maxLevels": [
                         0,
                         0,
@@ -32,15 +32,15 @@
                         0,
                         0,
                         0,
-                        9,
-                        9,
                         12,
                         12,
                         15,
                         15,
                         18,
                         18,
-                        18
+                        21,
+                        24,
+                        27
                     ]
                 },
                 {
@@ -66,7 +66,7 @@
                     ]
                 },
                 {
-                    "name": "Earthquake Boots",
+                    "name": "Barbarian Puppet",
                     "type": "common",
                     "maxLevels": [
                         0,
@@ -88,8 +88,8 @@
                     ]
                 },
                 {
-                    "name": "Giant Gauntlet",
-                    "type": "epic",
+                    "name": "Earthquake Boots",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -98,15 +98,15 @@
                         0,
                         0,
                         0,
+                        9,
+                        9,
                         12,
                         12,
                         15,
                         15,
                         18,
                         18,
-                        21,
-                        24,
-                        27
+                        18
                     ]
                 },
                 {
@@ -177,6 +177,28 @@
             ],
             "equipment": [
                 {
+                    "name": "Frozen Arrow",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        21,
+                        24,
+                        27
+                    ]
+                },
+                {
                     "name": "Archer Puppet",
                     "type": "common",
                     "maxLevels": [
@@ -221,8 +243,8 @@
                     ]
                 },
                 {
-                    "name": "Frozen Arrow",
-                    "type": "epic",
+                    "name": "Healer Puppet",
+                    "type": "common",
                     "maxLevels": [
                         0,
                         0,
@@ -232,14 +254,14 @@
                         0,
                         0,
                         0,
-                        12,
+                        0,
+                        0,
+                        0,
                         15,
                         15,
                         18,
                         18,
-                        21,
-                        24,
-                        27
+                        18
                     ]
                 },
                 {
@@ -257,28 +279,6 @@
                         9,
                         12,
                         12,
-                        15,
-                        15,
-                        18,
-                        18,
-                        18
-                    ]
-                },
-                {
-                    "name": "Healer Puppet",
-                    "type": "common",
-                    "maxLevels": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
                         15,
                         15,
                         18,
@@ -310,28 +310,6 @@
             ],
             "equipment": [
                 {
-                    "name": "Life Gem",
-                    "type": "common",
-                    "maxLevels": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        12,
-                        15,
-                        15,
-                        18,
-                        18,
-                        18
-                    ]
-                },
-                {
                     "name": "Fireball",
                     "type": "epic",
                     "maxLevels": [
@@ -351,28 +329,6 @@
                         21,
                         24,
                         27
-                    ]
-                },
-                {
-                    "name": "Rage Gem",
-                    "type": "common",
-                    "maxLevels": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        12,
-                        15,
-                        15,
-                        18,
-                        18,
-                        18
                     ]
                 },
                 {
@@ -418,6 +374,50 @@
                         18,
                         18
                     ]
+                },
+                {
+                    "name": "Life Gem",
+                    "type": "common",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
+                },
+                {
+                    "name": "Rage Gem",
+                    "type": "common",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
                 }
             ]
         },
@@ -443,7 +443,29 @@
             ],
             "equipment": [
                 {
-                    "name": "Royal Gem",
+                    "name": "Rocket Spear",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        18,
+                        21,
+                        24,
+                        27
+                    ]
+                },
+                {
+                    "name": "Haste Vial",
                     "type": "common",
                     "maxLevels": [
                         0,
@@ -487,29 +509,7 @@
                     ]
                 },
                 {
-                    "name": "Rocket Spear",
-                    "type": "epic",
-                    "maxLevels": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        18,
-                        21,
-                        24,
-                        27
-                    ]
-                },
-                {
-                    "name": "Seeking Shield",
+                    "name": "Royal Gem",
                     "type": "common",
                     "maxLevels": [
                         0,
@@ -531,7 +531,7 @@
                     ]
                 },
                 {
-                    "name": "Haste Vial",
+                    "name": "Seeking Shield",
                     "type": "common",
                     "maxLevels": [
                         0,
