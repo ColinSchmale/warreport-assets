@@ -311,6 +311,74 @@
             ]
         },
         {
+            "name": "Minion Prince",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90
+            ],
+            "equipment": [
+                {
+                    "name": "Henchmen Puppet",
+                    "type": "common",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
+                },
+                {
+                    "name": "Dark Orb",
+                    "type": "common",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        9,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        18
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Grand Warden",
             "maxLevels": [
                 0,
