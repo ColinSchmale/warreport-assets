@@ -1248,6 +1248,28 @@
             ]
         },
         {
+            "name": "Thrower",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                3
+            ]
+        },
+        {
             "name": "Minion",
             "superTroop": "Super Minion",
             "maxLevels": [
