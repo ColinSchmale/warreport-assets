@@ -1655,6 +1655,28 @@
             ]
         },
         {
+            "name": "Revive Spell",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
             "name": "Poison Spell",
             "maxLevels": [
                 0,
