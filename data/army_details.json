@@ -46,6 +46,29 @@
                     ]
                 },
                 {
+                    "name": "Snake Bracelet",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        12,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        21,
+                        24,
+                        27,
+                        27
+                    ]
+                },
+                {
                     "name": "Spiky Ball",
                     "type": "epic",
                     "maxLevels": [
