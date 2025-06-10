@@ -393,6 +393,29 @@
             ],
             "equipment": [
                 {
+                    "name": "Dark Crown",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        12,
+                        15,
+                        15,
+                        18,
+                        18,
+                        21,
+                        24,
+                        27,
+                        27
+                    ]
+                },
+                {
                     "name": "Henchmen Puppet",
                     "type": "common",
                     "maxLevels": [
