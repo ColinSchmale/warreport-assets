@@ -555,6 +555,29 @@
                     ]
                 },
                 {
+                    "name": "Heroic Torch",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        1,
+                        15,
+                        18,
+                        18,
+                        21,
+                        24,
+                        27,
+                        27
+                    ]
+                },
+                {
                     "name": "Lavaloon Puppet",
                     "type": "epic",
                     "maxLevels": [
