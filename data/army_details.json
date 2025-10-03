@@ -1400,6 +1400,7 @@
         },
         {
             "name": "Yeti",
+            "superTroop": "Super Yeti",
             "maxLevels": [
                 0,
                 0,
