@@ -1812,6 +1812,188 @@
             ]
         }
     ],
+    "builderBaseTroops": [
+        {
+            "name": "Raged Barbarian",
+            "maxLevels": [
+                0,
+                4,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Boxer Giant",
+            "maxLevels": [
+                0,
+                0,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Bomber",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Cannon Cart",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Drop Ship",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Hog Glider",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Sneaky Archer",
+            "maxLevels": [
+                0,
+                4,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Beta Minion",
+            "maxLevels": [
+                0,
+                0,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Baby Dragon",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Night Witch",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Power P.E.K.K.A",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "name": "Electrofire Wizard",
+            "maxLevels": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                20
+            ]
+        }
+    ],
     "spells": [
         {
             "name": "Lightning Spell",
