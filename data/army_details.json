@@ -796,6 +796,30 @@
                     ]
                 },
                 {
+                    "name": "Frost Flake",
+                    "type": "epic",
+                    "maxLevels": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        18,
+                        21,
+                        24,
+                        27,
+                        27,
+                        27
+                    ]
+                },
+                {
                     "name": "Rocket Spear",
                     "type": "epic",
                     "maxLevels": [
