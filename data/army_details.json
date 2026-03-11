@@ -1377,6 +1377,7 @@
         {
             "name": "Barbarian",
             "superTroop": "Super Barbarian",
+            "type": "ground",
             "maxLevels": [
                 1,
                 1,
@@ -1401,6 +1402,7 @@
         {
             "name": "Archer",
             "superTroop": "Super Archer",
+            "type": "ground",
             "maxLevels": [
                 0,
                 1,
@@ -1425,6 +1427,7 @@
         {
             "name": "Giant",
             "superTroop": "Super Giant",
+            "type": "ground",
             "maxLevels": [
                 0,
                 1,
@@ -1449,6 +1452,7 @@
         {
             "name": "Goblin",
             "superTroop": "Sneaky Goblin",
+            "type": "ground",
             "maxLevels": [
                 0,
                 1,
@@ -1473,6 +1477,7 @@
         {
             "name": "Wall Breaker",
             "superTroop": "Super Wall Breaker",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1497,6 +1502,7 @@
         {
             "name": "Balloon",
             "superTroop": "Rocket Balloon",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1521,6 +1527,7 @@
         {
             "name": "Wizard",
             "superTroop": "Super Wizard",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1544,6 +1551,7 @@
         },
         {
             "name": "Healer",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1568,6 +1576,7 @@
         {
             "name": "Dragon",
             "superTroop": "Super Dragon",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1591,6 +1600,7 @@
         },
         {
             "name": "P.E.K.K.A",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1615,6 +1625,7 @@
         {
             "name": "Baby Dragon",
             "superTroop": "Inferno Dragon",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1639,6 +1650,7 @@
         {
             "name": "Miner",
             "superTroop": "Super Miner",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1662,6 +1674,7 @@
         },
         {
             "name": "Electro Dragon",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1686,6 +1699,7 @@
         {
             "name": "Yeti",
             "superTroop": "Super Yeti",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1709,6 +1723,7 @@
         },
         {
             "name": "Dragon Rider",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1732,6 +1747,7 @@
         },
         {
             "name": "Electro Titan",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1755,6 +1771,7 @@
         },
         {
             "name": "Root Rider",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1778,6 +1795,7 @@
         },
         {
             "name": "Thrower",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1801,6 +1819,7 @@
         },
         {
             "name": "Meteor Golem",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1825,6 +1844,7 @@
         {
             "name": "Minion",
             "superTroop": "Super Minion",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1849,6 +1869,7 @@
         {
             "name": "Hog Rider",
             "superTroop": "Super Hog Rider",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1873,6 +1894,7 @@
         {
             "name": "Valkyrie",
             "superTroop": "Super Valkyrie",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1896,6 +1918,7 @@
         },
         {
             "name": "Golem",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1920,6 +1943,7 @@
         {
             "name": "Witch",
             "superTroop": "Super Witch",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1944,6 +1968,7 @@
         {
             "name": "Lava Hound",
             "superTroop": "Ice Hound",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -1968,6 +1993,7 @@
         {
             "name": "Bowler",
             "superTroop": "Super Bowler",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -1991,6 +2017,7 @@
         },
         {
             "name": "Ice Golem",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2014,6 +2041,7 @@
         },
         {
             "name": "Headhunter",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2037,6 +2065,7 @@
         },
         {
             "name": "Apprentice Warden",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2060,6 +2089,7 @@
         },
         {
             "name": "Druid",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2083,6 +2113,7 @@
         },
         {
             "name": "Furnace",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2108,6 +2139,7 @@
     "builderBaseTroops": [
         {
             "name": "Raged Barbarian",
+            "type": "ground",
             "maxLevels": [
                 0,
                 4,
@@ -2123,6 +2155,7 @@
         },
         {
             "name": "Boxer Giant",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2138,6 +2171,7 @@
         },
         {
             "name": "Bomber",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2153,6 +2187,7 @@
         },
         {
             "name": "Cannon Cart",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2168,6 +2203,7 @@
         },
         {
             "name": "Drop Ship",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -2183,6 +2219,7 @@
         },
         {
             "name": "Hog Glider",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -2198,6 +2235,7 @@
         },
         {
             "name": "Sneaky Archer",
+            "type": "ground",
             "maxLevels": [
                 0,
                 4,
@@ -2213,6 +2251,7 @@
         },
         {
             "name": "Beta Minion",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -2228,6 +2267,7 @@
         },
         {
             "name": "Baby Dragon",
+            "type": "air",
             "maxLevels": [
                 0,
                 0,
@@ -2243,6 +2283,7 @@
         },
         {
             "name": "Night Witch",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2258,6 +2299,7 @@
         },
         {
             "name": "Power P.E.K.K.A",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
@@ -2273,6 +2315,7 @@
         },
         {
             "name": "Electrofire Wizard",
+            "type": "ground",
             "maxLevels": [
                 0,
                 0,
